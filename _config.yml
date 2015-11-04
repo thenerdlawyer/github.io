@@ -1,13 +1,13 @@
 # Site settings
-title: Nerd Lawyer
+title: The Nerd Lawyer
 email: nerd@nerdlawyer.net
 description: > # this means to ignore newlines until "baseurl:"
   From time to time I share my noodlings about law and the practice thereof, technology, entertainment, digital media, and how to spend more time than you could possibly save automating and enhancing your workflow with OmniFocus, DevonThink, MailMate, Hammerspoon, Karabiner, TextExpander, Hazel, Launchbar, Keyboard Maestro, Shortcat, and a rudimentary grasp of various programming languages. 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://nerdlawyer.net" # the base hostname & protocol for your site
-twitter_username: mbsmithlaw
-github_username: nerdlawyer
-linkedin_username: mbsmithlaw
+url: "http://blog.thenerdlawyer.com" # the base hostname & protocol for your site
+twitter_username: thenerdlawyer
+github_username: thenerdlawyer
+linkedin_username: nerdlawyer
 # Build settings
 markdown: kramdown
 
