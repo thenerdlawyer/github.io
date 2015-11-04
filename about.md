@@ -4,8 +4,28 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+### Nerd:
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+-   I make ZORK jokes.[^1]
+-   I can name at least five Robins.
+-   I wore a pocket protector to school in the sixth grade.
+-   I write legal briefs in Markdown. In VIM.
+*    I know who Wedge Antilles is. 
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+
+[^1]: I'm an *old* nerd.
+
+  [Nerdist Industries]: http://www.nerdist.com
+  [Geek and Sundry]: http://geekandsundry.com
+  [Smart Girls]: http://amysmartgirls.com
+
+### Lawyer:
+
+* I work out of my home in Massachusetts.
+* Most of my clients are in California and New York. 
+* My focus is intellectual property.
+* I represent clients who do digital/entertainment (video games, software, TV, podcasts, web videos, etc.).
+* You can learn more about my professional life [here](http://mbsmithlaw.com).
+
+
+I would probably like you. You seem nice.

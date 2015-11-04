@@ -1,14 +1,14 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Nerd Lawyer
+email: nerd@nerdlawyer.net
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  From time to time I share my noodlings about law and the practice thereof, technology, entertainment, digital media, and how to spend more time than you could possibly save automating and enhancing your workflow with OmniFocus, DevonThink, MailMate, Hammerspoon, Karabiner, TextExpander, Hazel, Launchbar, Keyboard Maestro, Shortcat, and a rudimentary grasp of various programming languages. 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
-
+url: "http://nerdlawyer.net" # the base hostname & protocol for your site
+twitter_username: mbsmithlaw
+github_username: nerdlawyer
+linkedin_username: mbsmithlaw
 # Build settings
 markdown: kramdown
+
+paginate: 5 
