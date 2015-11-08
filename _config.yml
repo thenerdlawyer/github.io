@@ -9,6 +9,7 @@ author_name:        "Michael B. Smith"
 author_email:       mbs@nerd.lawyer
 author_gravatar:    929667051a196fa7b33008fc359ed1c6 # Gravatar md5 hash
 twitter_username:   thenerdlawyer
+logo: scales-glasses-logo.png
 
 # Site Settings
 baseurl:            "" # Base URL must end WITHOUT a slash, default: ""
