@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+<noscript>
+	<style>
+
+		article .footnotes {
+			display: block;
+		}
+
+	</style>
+</noscript>
+
+<article>
+
+	<div class="center">
+    <a href="{{site.baseurl}}/">
+		<h1>{{ page.title }}</h1>
+        </a>
+		<time>{{ page.date | date: '%B %-d, %Y' }}</time>
+	</div>
+
+	<div class="divider"></div>
+
+	{{ content }}
+
+</article>
+
+<div class="back">
+	<a href="{{site.baseurl}}/">Back</a>
+</div>
