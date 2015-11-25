@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Server: nginx/1.1.19
+Date: Mon, 09 Nov 2015 04:09:57 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000
+X-UA-Compatible: IE=Edge,chrome=1
+ETag: "9d2050aa6b4064dd471717c2edf42064"
+Cache-Control: max-age=0, private, must-revalidate
+X-Request-Id: 461ccd634859924a2bfd8a7561f290e7
+X-Runtime: 0.006582
+X-Rack-Cache: miss
+
+{"error":"Not authorized","result":"error"}
